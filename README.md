@@ -3,7 +3,7 @@
 
 ## Web
 
-- course: [Learn PWA](https://web.dev/learn/pwa/)
+- course: [Learn Progressive Web Apps](https://web.dev/learn/pwa/)
 
 ### JavaScript
 
