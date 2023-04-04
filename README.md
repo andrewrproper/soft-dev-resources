@@ -23,6 +23,7 @@
 - [DZone](https://dzone.com/)
    - includes downloadable PDF Refcards, Trend Reports, Guides
 - [InfoQ](https://www.infoq.com/)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
 ### Trends
 
